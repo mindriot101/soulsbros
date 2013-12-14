@@ -1,32 +1,26 @@
-# README
+# Dark souls bros
 
-## DarkSoulsBros
+A meeting place for Dark Souls collaboration/antagonism. Mostly it should be a way to easily update your character's details as this may quickly become desynchronised.
 
-For all of your dark souls collaberaion needs...
+## Design
 
+The design works in two ways: one for helpers and one for helpees. The helpers create posts offering help, and the helpees can view the posts sorted by most useful.
 
+Both use cases require the user to input their character details, which is kept in a box on the home page.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Each user can post their character and location to a region-localised board. Each post corresponds of
 
-Things you may want to cover:
+* username
+* soul level
+* location
+* build
 
-* Ruby version
+After assisting/invading the user can be rated and classed as an invader or sunbro for other users to see.
 
-* System dependencies
+### Phantoms
 
-* Configuration
+### Helpees
 
-* Database creation
+Can rate the other players and classify them based on whether they invaded or helped.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
+## Backend
